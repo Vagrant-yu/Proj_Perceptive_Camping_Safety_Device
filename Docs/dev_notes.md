@@ -7,7 +7,11 @@
   - 完成组队，开始报名
 - 02_12
   - 完成项目最初构思方案
-  - [_Final_Proposal](../Docs/Planning/_Final_Proposal.md)
+  - [0212_Proposal](../Docs/Planning/_Archive/0213_First/0212_Proposal.md)
+- 02_13
+    - 老师第一次开会建议
+- 02_14
+  - 暂定初版方案
 ## 3 月
 
 ## 4 月
